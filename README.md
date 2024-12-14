@@ -1,6 +1,6 @@
 ## Hi Everyone !!
 
-### Senior Product Engineering Lead & Architect with extensive experience in leading multiple product engineering teams. Proven expertise in setting up and managing professional services teams for product groups, aligning client needs with business goals to ensure quality service delivery. Adept at managing globally distributed onshore and offshore teams, fostering collaboration, and achieving high-performance outcomes. Proficient in architecture design, product development lifecycle, and team leadership, with a strong focus on delivering value-driven solutions. A strategic thinker and problem solver with a track record of consistently exceeding expectations in fast-paced, agile environments. 
+I am a Senior Product Engineering Lead & Architect with extensive experience in leading multiple product engineering teams. Proven expertise in setting up and managing professional services teams for product groups, aligning client needs with business goals to ensure quality service delivery. Adept at managing globally distributed onshore and offshore teams, fostering collaboration, and achieving high-performance outcomes. Proficient in architecture design, product development lifecycle, and team leadership, with a strong focus on delivering value-driven solutions. A strategic thinker and problem solver with a track record of consistently exceeding expectations in fast-paced, agile environments. 
 
 
 <!--
