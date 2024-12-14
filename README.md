@@ -1,18 +1,14 @@
-## Hi Everyone !!
+# Hi there, I'm Abhay Kumar Gunhalkar 👋
 
-I am a Senior Product Engineering Lead & Architect with extensive experience in leading multiple product engineering teams. Proven expertise in setting up and managing professional services teams for product groups, aligning client needs with business goals to ensure quality service delivery. Adept at managing globally distributed onshore and offshore teams, fostering collaboration, and achieving high-performance outcomes. Proficient in architecture design, product development lifecycle, and team leadership, with a strong focus on delivering value-driven solutions. A strategic thinker and problem solver with a track record of consistently exceeding expectations in fast-paced, agile environments. 
-
-# Hi there, I'm [Your Name] 👋
-
-Welcome to my GitHub profile! I'm passionate about [your key interests, e.g., software development, machine learning, open source, etc.]. Here, you'll find some of my projects, contributions, and experiments.
-
+Welcome to my GitHub profile! I'm passionate about Software Development & Business Solutions. Here, you'll find some of my projects, contributions, and experiments.
 ---
-
 ## 🚀 About Me
 
-- 💼 **Profession:** [Your profession, e.g., Software Engineer, Data Scientist, etc.]
-- 🎓 **Education:** [Your degree or field of study, e.g., B.Sc. in Computer Science]
-- 🌍 **Location:** [Your location, e.g., San Francisco, CA]
+A Senior Product Engineering Lead & Architect with extensive experience in leading multiple product engineering teams. Proven expertise in setting up and managing professional services teams for product groups, aligning client needs with business goals to ensure quality service delivery. Adept at managing globally distributed onshore and offshore teams, fostering collaboration, and achieving high-performance outcomes. Proficient in architecture design, product development lifecycle, and team leadership, with a strong focus on delivering value-driven solutions. A strategic thinker and problem solver with a track record of consistently exceeding expectations in fast-paced, agile environments.
+
+- 💼 **Profession:** Product Development and System Integration
+- 🎓 **Education:**  Bachelor of Engineering & Post Graduate Program in Artificial Intelligence & Machine Learning: Business Applications” from The University of Austin, Texas, McCombs School of Business
+- 🌍 **Location:** Austin, Texas
 - 💬 **Ask me about:** [Topics you are comfortable discussing, e.g., Web Development, Python, etc.]
 - 📫 **How to reach me:** [Email or LinkedIn]
 - ⚡ **Fun fact:** [A fun or quirky fact about you, e.g., "I love solving puzzles."]
