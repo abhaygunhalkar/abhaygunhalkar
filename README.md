@@ -1,7 +1,7 @@
 # Hi there, I'm Abhay Kumar Gunhalkar 👋
 
-**Welcome to my GitHub profile! I'm passionate about Software Development & Business Solutions. Here, you'll find some of my projects, contributions, and experiments.
-**---
+Welcome to my GitHub profile! I'm passionate about Software Development & Business Solutions. Here, you'll find some of my projects, contributions, and experiments.
+
 ## 🚀 About Me
 
 A Senior Product Engineering Lead & Architect with extensive experience in leading multiple product engineering teams. Proven expertise in setting up and managing professional services teams for product groups, aligning client needs with business goals to ensure quality service delivery. Adept at managing globally distributed onshore and offshore teams, fostering collaboration, and achieving high-performance outcomes. Proficient in architecture design, product development lifecycle, and team leadership, with a strong focus on delivering value-driven solutions. A strategic thinker and problem solver with a track record of consistently exceeding expectations in fast-paced, agile environments.
