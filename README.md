@@ -9,9 +9,9 @@ A Senior Product Engineering Lead & Architect with extensive experience in leadi
 - 💼 **Profession:** Product Development and System Integration
 - 🎓 **Education:**  Bachelor of Engineering & Post Graduate Program in Artificial Intelligence & Machine Learning: Business Applications” from The University of Austin, Texas, McCombs School of Business
 - 🌍 **Location:** Austin, Texas
-- 💬 **Ask me about:** [Topics you are comfortable discussing, e.g., Web Development, Python, etc.]
+- 💬 **Ask me about:** [Topics you are comfortable discussing, e.g., Product Engineering, Web Development, Java, Python, Agile, Project Managment ]
 - 📫 **How to reach me:** [Email or LinkedIn]
-- ⚡ **Fun fact:** [A fun or quirky fact about you, e.g., "I love solving puzzles."]
+- ⚡ **Fun fact:** [......."]
 
 ---
 
@@ -21,6 +21,8 @@ A Senior Product Engineering Lead & Architect with extensive experience in leadi
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![AWS]
+![Cloud]
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
