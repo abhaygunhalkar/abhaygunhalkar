@@ -1,6 +1,6 @@
 # Hi there, I'm Abhay Kumar Gunhalkar 👋
 
-Welcome to my GitHub profile! I'm passionate about Software Development & Business Solutions. Here, you'll find some of my projects, contributions, and experiments.
+Welcome to my GitHub profile! I'm passionate about Software Development, System Integration & Business Solutions. Here, you'll find some of my projects, contributions, and experiments.
 
 ## 🚀 About Me
 
