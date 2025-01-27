@@ -21,8 +21,20 @@ A Senior Product Engineering Lead & Architect with extensive experience in leadi
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-![AWS]
-![Cloud]
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
+![AI](https://img.shields.io/badge/-Artificial%20Intelligence-008080?logo=brain&logoColor=white&style=flat)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?logo=tensorflow&logoColor=white&style=flat)
+![LLM](https://img.shields.io/badge/-Large%20Language%20Models-800080?logo=openai&logoColor=white&style=flat)
+![GenAI](https://img.shields.io/badge/-Generative%20AI-9A4EF0?logo=openai&logoColor=white&style=flat)
+![Artificial Neural Networks](https://img.shields.io/badge/-Artificial%20Neural%20Networks-2D8CFF?logo=deep-learning&logoColor=white&style=flat)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-F9EDB8?logo=huggingface&logoColor=black&style=flat)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=black&style=flat)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
+
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
