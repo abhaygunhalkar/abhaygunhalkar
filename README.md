@@ -9,7 +9,7 @@ A Senior Product Engineering Lead & Architect with extensive experience in leadi
 - 💼 **Profession:** Product Development and System Integration
 - 🎓 **Education:**  Bachelor of Engineering & Post Graduate Program in Artificial Intelligence & Machine Learning: Business Applications” from The University of Austin, Texas, McCombs School of Business
 - 🌍 **Location:** Austin, Texas
-- 💬 **Ask me about:** [Topics you are comfortable discussing, e.g., Product Engineering, Web Development, Java, Python, Agile, Project Managment ]
+- 💬 **Ask me about:** Product Engineering, Web Development,Java Enterprise, API, REST, Microservices, Python, Agile, Project Managment, Machine Learning, Artificial Intelligence, Neural Network,  
 - 📫 **How to reach me:** [Email or LinkedIn]
 - ⚡ **Fun fact:** [......."]
 
