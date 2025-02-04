@@ -1,6 +1,6 @@
 # Hi there, I'm Abhay Kumar Gunhalkar 👋
 
-Welcome to my GitHub profile! I'm passionate about Software Development, System Integration & Business Solutions. Here, you'll find some of my projects, contributions, and experiments.
+Welcome to my GitHub profile! I'm passionate about Product & Software Development, System Integration & Business Solutions. Here, you'll find some of my projects, contributions, and experiments.
 
 ## 🚀 About Me
 
@@ -9,7 +9,7 @@ A Senior Product Engineering Lead & Architect with extensive experience in leadi
 - 💼 **Profession:** Product Development and System Integration
 - 🎓 **Education:**  Bachelor of Engineering & Post Graduate Program in Artificial Intelligence & Machine Learning: Business Applications” from The University of Austin, Texas, McCombs School of Business
 - 🌍 **Location:** Austin, Texas
-- 💬 **Ask me about:** Product Engineering, Web Development,Java Enterprise, API, REST, Microservices, Python, Agile, Project Managment, Machine Learning, Artificial Intelligence, Neural Network,  
+- 💬 **Ask me about:** Product Engineering & Management, Technology Delivery, Project Managment, Systems Integration, Web Development,Java Enterprise, API, REST, Microservices, Python, Agile, Machine Learning, Artificial Intelligence, Neural Network
 - 📫 **How to reach me:** Email:reachabhayg@gmail.com or LinkedIn
 - ⚡ **Fun fact:** [......."]
 
