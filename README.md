@@ -10,7 +10,7 @@ A Senior Product Engineering Lead & Architect with extensive experience in leadi
 - 🎓 **Education:**  Bachelor of Engineering & Post Graduate Program in Artificial Intelligence & Machine Learning: Business Applications” from The University of Austin, Texas, McCombs School of Business
 - 🌍 **Location:** Austin, Texas
 - 💬 **Ask me about:** Product Engineering, Web Development,Java Enterprise, API, REST, Microservices, Python, Agile, Project Managment, Machine Learning, Artificial Intelligence, Neural Network,  
-- 📫 **How to reach me:** [Email or LinkedIn]
+- 📫 **How to reach me:** Email:reachabhayg@gmail.com or LinkedIn
 - ⚡ **Fun fact:** [......."]
 
 ---
@@ -71,7 +71,7 @@ A Senior Product Engineering Lead & Architect with extensive experience in leadi
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/abhaygunhalkar/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/yourusername)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=firefox&logoColor=white&style=flat)](https://yourportfolio.com)
 
