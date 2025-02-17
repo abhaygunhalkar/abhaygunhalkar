@@ -68,10 +68,10 @@ A Senior Product Engineering Lead & Architect with extensive experience in leadi
 
 ## 🌟 Featured Projects
 
-### [Project Name 1](https://github.com/yourusername/project1)
-**Description:** A brief overview of what this project does or solves. 
-- Tech Stack: [e.g., Python, Django, etc.]
-- Key Features: [e.g., Responsive UI, API integration, etc.]
+### Bank - Customer Churn Prediction(https://github.com/yourusername/project1)
+**Description:** Build a neural network based classifier that can determine whether a customer will leave the bank or not in the next 6 months.
+- Tech Stack: [Python,TensorFlow, Keras, Scikit-learn, Matplotlib, Numpy, Pandas]
+- Key Features: [EDA, Data Visualization, Univariate and Bivariate Analysis, Data Normalization, Model Building using Activation function and Optimizers, Model comparision, selection & testing of the model]
 
 ### [Project Name 2](https://github.com/yourusername/project2)
 **Description:** A brief overview of what this project does or solves. 
