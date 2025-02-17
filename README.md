@@ -20,6 +20,9 @@ A Senior Product Engineering Lead & Architect with extensive experience in leadi
 ### Languages & Technology
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![REST API](https://img.shields.io/badge/-REST%20API-61DAFB?logo=rest-api&logoColor=black&style=flat)
+![Microservices](https://img.shields.io/badge/-Microservices-8BC34A?logo=microservices&logoColor=white&style=flat)
+![SaaS](https://img.shields.io/badge/-SaaS-0077B5?logo=saas&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
@@ -54,6 +57,11 @@ A Senior Product Engineering Lead & Architect with extensive experience in leadi
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-348ABD?logo=matplotlib&logoColor=white&style=flat)
 
 ### Database
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
@@ -90,11 +98,9 @@ A Senior Product Engineering Lead & Architect with extensive experience in leadi
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/abhaygunhalkar/)
-![Medium](https://img.shields.io/badge/-Medium-00AB6C?logo=medium&logoColor=white&style=flat)(https://medium.com/@abhaygunhalkar)
+[![Medium](https://img.shields.io/badge/-Medium-00AB6C?logo=medium&logoColor=white&style=flat)](https://medium.com/@abhaygunhalkar)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/yourusername)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=firefox&logoColor=white&style=flat)](https://yourportfolio.com)
-
-
 
 ---
 
