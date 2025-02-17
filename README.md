@@ -24,7 +24,6 @@ A Senior Product Engineering Lead & Architect with extensive experience in leadi
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
 
-
 ### Cloud
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
 ![Amazon EC2](https://img.shields.io/badge/-Amazon%20EC2-FF9900?logo=amazon-aws&logoColor=white&style=flat)
@@ -52,6 +51,7 @@ A Senior Product Engineering Lead & Architect with extensive experience in leadi
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=black&style=flat)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-F9EDB8?logo=huggingface&logoColor=black&style=flat)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-348ABD?logo=matplotlib&logoColor=white&style=flat)
 
 ### Database
 
@@ -68,12 +68,12 @@ A Senior Product Engineering Lead & Architect with extensive experience in leadi
 
 ## 🌟 Featured Projects
 
-### Bank - Customer Churn Prediction(https://github.com/yourusername/project1)
+### Bank - Customer Churn Prediction(https://github.com/abhaygunhalkar/project1)
 **Description:** Build a neural network based classifier that can determine whether a customer will leave the bank or not in the next 6 months.
 - Tech Stack: [Python,TensorFlow, Keras, Scikit-learn, Matplotlib, Numpy, Pandas]
 - Key Features: [EDA, Data Visualization, Univariate and Bivariate Analysis, Data Normalization, Model Building using Activation function and Optimizers, Model comparision, selection & testing of the model]
 
-### [Project Name 2](https://github.com/yourusername/project2)
+### [Project Name 2](https://github.com/abhaygunhalkar/project2)
 **Description:** A brief overview of what this project does or solves. 
 - Tech Stack: [e.g., React, Node.js, etc.]
 - Key Features: [e.g., Real-time chat, authentication, etc.]
@@ -90,8 +90,11 @@ A Senior Product Engineering Lead & Architect with extensive experience in leadi
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/abhaygunhalkar/)
+![Medium](https://img.shields.io/badge/-Medium-00AB6C?logo=medium&logoColor=white&style=flat)(https://medium.com/@abhaygunhalkar)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/yourusername)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=firefox&logoColor=white&style=flat)](https://yourportfolio.com)
+
+
 
 ---
 
