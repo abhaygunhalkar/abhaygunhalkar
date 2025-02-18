@@ -76,7 +76,7 @@ A Senior Product Engineering Lead & Architect with extensive experience in leadi
 
 ## 🌟 Featured Projects
 
-### Bank - Customer Churn Prediction(https://github.com/abhaygunhalkar/project1)
+### Bank - Customer Churn Prediction(https://github.com/abhaygunhalkar/neural_network)
 **Description:** Build a neural network based classifier that can determine whether a customer will leave the bank or not in the next 6 months.
 - Tech Stack: [Python,TensorFlow, Keras, Scikit-learn, Matplotlib, Numpy, Pandas]
 - Key Features: [EDA, Data Visualization, Univariate and Bivariate Analysis, Data Normalization, Model Building using Activation function and Optimizers, Model comparision, selection & testing of the model]
