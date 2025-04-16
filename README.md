@@ -81,12 +81,15 @@ A Senior Product Engineering Lead & Architect with extensive experience in leadi
 - Tech Stack: [Python,TensorFlow, Keras, Scikit-learn, Matplotlib, Numpy, Pandas]
 - Key Features: [EDA, Data Visualization, Univariate and Bivariate Analysis, Data Normalization, Model Building using Activation function and Optimizers, Model comparision, selection & testing of the model]
 
-### [Project Name 2](https://github.com/abhaygunhalkar/project2)
-**Description:** A brief overview of what this project does or solves. 
-- Tech Stack: [e.g., React, Node.js, etc.]
-- Key Features: [e.g., Real-time chat, authentication, etc.]
+### Plants Seedling Classification(https://github.com/abhaygunhalkar/computer_vision)
+**Description:** Build a Convolutional Neural Network model which would classify the plant seedlings into their respective 12 categories.
+- Tech Stack: [Python,TensorFlow, Keras, Scikit-learn, Matplotlib, Numpy, Pandas]
+- Key Features: [EDA, Data Visualization, Univariate and Bivariate Analysis, Data Normalization, Model Building using Activation function and Optimizers, Model comparision, selection & testing of the model]
 
----
+### Stock Market News Sentiment Analysis and Summarization (https://github.com/abhaygunhalkar/natural_Language_processing)
+**Description:** Develop an AI Driven sentiment analysis system that will automatically process and analyze news articles to gauge market sentiment and summarize the news at a weekly level to enhance accuracy of theor stock price predictions and optimized investment strategies.
+- Tech Stack: [Python,TensorFlow, Keras, Scikit-learn, Matplotlib, Numpy, Pandas]
+- Key Features: [EDA, Data Visualization, Univariate and Bivariate Analysis, Data Normalization, Model Building using Activation function and Optimizers, Word2Vec, GloVe, Sentence TransformerModel , selection & testing of the model, Opensource HuggingFace LLM models ]
 
 ## GitHub Stats
 
