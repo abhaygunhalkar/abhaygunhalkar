@@ -7,11 +7,13 @@ Welcome to my GitHub profile! I'm passionate about Product & Software Developmen
 A Senior Product Engineering Lead & Architect with extensive experience in leading multiple product engineering teams. Proven expertise in setting up and managing professional services teams for product groups, aligning client needs with business goals to ensure quality service delivery. Adept at managing globally distributed onshore and offshore teams, fostering collaboration, and achieving high-performance outcomes. Proficient in architecture design, product development lifecycle, and team leadership, with a strong focus on delivering value-driven solutions. A strategic thinker and problem solver with a track record of consistently exceeding expectations in fast-paced, agile environments.
 
 - 💼 **Profession:** Product Development and System Integration
-- 🎓 **Education:**  Bachelor of Engineering & Post Graduate Program in Artificial Intelligence & Machine Learning: Business Applications” from The University of Austin, Texas, McCombs School of Business
+- 🎓 **Education:**
+  *  Post Graduate Program in Artificial Intelligence & Machine Learning: Business Applications,  from The University of Austin, McCombs School of Business, Texas.
+  *  Bachelor of Engineering, B.I.E.T, Davangere, India.
 - 🌍 **Location:** Austin, Texas
 - 💬 **Ask me about:** Product Engineering & Management, Technology Delivery, Project Managment, Systems Integration, Web Development,Java Enterprise, API, REST, Microservices, Python, Agile, Machine Learning, Artificial Intelligence, Neural Network
 - 📫 **How to reach me:** Email:reachabhayg@gmail.com or LinkedIn
-- ⚡ **Fun fact:** [......."]
+<!-- - ⚡ **Fun fact:** [......."] -->
 ---
 ## 🌟 Featured Projects
 
