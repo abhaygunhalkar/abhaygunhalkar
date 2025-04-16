@@ -1,8 +1,8 @@
-# Hi There, I'm Abhay Kumar Gunhalkar 👋
+## Hi There, I'm Abhay Kumar Gunhalkar 👋
 
 Welcome to my GitHub profile! I'm passionate about Product & Software Development, System Integration & Business Solutions. Here, you'll find some of my projects, contributions, and experiments.
 
-## 🚀 About Me
+### 🚀 About Me
 
 A Senior Product Engineering Lead & Architect with extensive experience in leading multiple product engineering teams. Proven expertise in setting up and managing professional services teams for product groups, aligning client needs with business goals to ensure quality service delivery. Adept at managing globally distributed onshore and offshore teams, fostering collaboration, and achieving high-performance outcomes. Proficient in architecture design, product development lifecycle, and team leadership, with a strong focus on delivering value-driven solutions. A strategic thinker and problem solver with a track record of consistently exceeding expectations in fast-paced, agile environments.
 
@@ -15,28 +15,28 @@ A Senior Product Engineering Lead & Architect with extensive experience in leadi
 - 📫 **How to reach me:** Email:reachabhayg@gmail.com or LinkedIn
 <!-- - ⚡ **Fun fact:** [......."] -->
 ---
-## 🌟 Featured Projects
+### 🌟 Featured Projects
 
-### Bank - Customer Churn Prediction(https://github.com/abhaygunhalkar/neural_network)
+#### Bank - Customer Churn Prediction(https://github.com/abhaygunhalkar/neural_network)
 **Description:** Build a neural network based classifier that can determine whether a customer will leave the bank or not in the next 6 months.
 - Tech Stack: [Python,TensorFlow, Keras, Scikit-learn, Matplotlib, Numpy, Pandas]
 - Key Features: [EDA, Data Visualization, Univariate and Bivariate Analysis, Data Normalization, Model Building using Activation function and Optimizers, Model comparision, selection & testing of the model]
 
-### Plants Seedling Classification(https://github.com/abhaygunhalkar/computer_vision)
+#### Plants Seedling Classification(https://github.com/abhaygunhalkar/computer_vision)
 **Description:** Build a Convolutional Neural Network model which would classify the plant seedlings into their respective 12 categories.
 - Tech Stack: [Python,TensorFlow, Keras, Scikit-learn, Matplotlib, Numpy, Pandas]
 - Key Features: [EDA, Data Visualization, Univariate and Bivariate Analysis, Data Normalization, Model Building using Activation function and Optimizers, Model comparision, selection & testing of the model]
 
-### Stock Market News Sentiment Analysis and Summarization (https://github.com/abhaygunhalkar/natural_language_processing)
+#### Stock Market News Sentiment Analysis and Summarization (https://github.com/abhaygunhalkar/natural_language_processing)
 **Description:** Develop an AI Driven sentiment analysis system that will automatically process and analyze news articles to gauge market sentiment and summarize the news at a weekly level to enhance accuracy of theor stock price predictions and optimized investment strategies.
 - Tech Stack: [Python,TensorFlow, Keras, Scikit-learn, Matplotlib, Numpy, Pandas]
 - Key Features: [EDA, Data Visualization, Univariate and Bivariate Analysis, Data Normalization, Model Building using Activation function and Optimizers, Word2Vec, GloVe, Sentence TransformerModel , selection & testing of the model, Opensource HuggingFace LLM models ]
 
 ---
 
-## 🛠️ Skills & Tools
+### 🛠️ Skills & Tools
 
-### Languages & Technology
+#### Languages & Technology
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![REST API](https://img.shields.io/badge/-REST%20API-61DAFB?logo=rest-api&logoColor=black&style=flat)
@@ -46,7 +46,7 @@ A Senior Product Engineering Lead & Architect with extensive experience in leadi
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
 
-### Cloud
+#### Cloud
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
 ![Amazon EC2](https://img.shields.io/badge/-Amazon%20EC2-FF9900?logo=amazon-aws&logoColor=white&style=flat)
 ![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-5BC0EB?logo=amazon-aws&logoColor=white&style=flat)
@@ -63,7 +63,7 @@ A Senior Product Engineering Lead & Architect with extensive experience in leadi
 ![Amazon Glue](https://img.shields.io/badge/-Amazon%20Glue-4E9A06?logo=amazon-aws&logoColor=white&style=flat)
 
 
-### AI & ML, GenAI
+#### AI & ML, GenAI
 ![AI](https://img.shields.io/badge/-Artificial%20Intelligence-008080?logo=brain&logoColor=white&style=flat)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?logo=tensorflow&logoColor=white&style=flat)
 ![LLM](https://img.shields.io/badge/-Large%20Language%20Models-800080?logo=openai&logoColor=white&style=flat)
@@ -75,32 +75,32 @@ A Senior Product Engineering Lead & Architect with extensive experience in leadi
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-F9EDB8?logo=huggingface&logoColor=black&style=flat)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-348ABD?logo=matplotlib&logoColor=white&style=flat)
 
-### Database
+#### Database
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 
 
-### Frameworks & Libraries
+#### Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 
 
-### Tools
+#### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
 
 
 
-## GitHub Stats
+### GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhaygunhalkar&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ---
 
-## 🤝 Let's Connect
+### 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/abhaygunhalkar/)
 [![Medium](https://img.shields.io/badge/-Medium-00AB6C?logo=medium&logoColor=white&style=flat)](https://medium.com/@abhaygunhalkar)
