@@ -18,19 +18,19 @@ A Senior Product Engineering Lead & Architect with extensive experience in leadi
 ### 🌟 Featured Projects
 
 #### Bank - Customer Churn Prediction(https://github.com/abhaygunhalkar/neural_network)
-**Description:** Build a neural network based classifier that can determine whether a customer will leave the bank or not in the next 6 months.
-- Tech Stack: [Python,TensorFlow, Keras, Scikit-learn, Matplotlib, Numpy, Pandas]
-- Key Features: [EDA, Data Visualization, Univariate and Bivariate Analysis, Data Normalization, Model Building using Activation function and Optimizers, Model comparision, selection & testing of the model]
+* Description: Build a neural network based classifier that can determine whether a customer will leave the bank or not in the next 6 months.
+* Tech Stack: [Python,TensorFlow, Keras, Scikit-learn, Matplotlib, Numpy, Pandas]
+* Key Features: [EDA, Data Visualization, Univariate and Bivariate Analysis, Data Normalization, Model Building using Activation function and Optimizers, Model comparision, selection & testing of the model]
 
 #### Plants Seedling Classification(https://github.com/abhaygunhalkar/computer_vision)
-**Description:** Build a Convolutional Neural Network model which would classify the plant seedlings into their respective 12 categories.
-- Tech Stack: [Python,TensorFlow, Keras, Scikit-learn, Matplotlib, Numpy, Pandas]
-- Key Features: [EDA, Data Visualization, Univariate and Bivariate Analysis, Data Normalization, Model Building using Activation function and Optimizers, Model comparision, selection & testing of the model]
+* Description: Build a Convolutional Neural Network model which would classify the plant seedlings into their respective 12 categories.
+* Tech Stack: [Python,TensorFlow, Keras, Scikit-learn, Matplotlib, Numpy, Pandas]
+* Key Features: [EDA, Data Visualization, Univariate and Bivariate Analysis, Data Normalization, Model Building using Activation function and Optimizers, Model comparision, selection & testing of the model]
 
 #### Stock Market News Sentiment Analysis and Summarization (https://github.com/abhaygunhalkar/natural_language_processing)
-**Description:** Develop an AI Driven sentiment analysis system that will automatically process and analyze news articles to gauge market sentiment and summarize the news at a weekly level to enhance accuracy of theor stock price predictions and optimized investment strategies.
-- Tech Stack: [Python,TensorFlow, Keras, Scikit-learn, Matplotlib, Numpy, Pandas]
-- Key Features: [EDA, Data Visualization, Univariate and Bivariate Analysis, Data Normalization, Model Building using Activation function and Optimizers, Word2Vec, GloVe, Sentence TransformerModel , selection & testing of the model, Opensource HuggingFace LLM models ]
+* Description: Develop an AI Driven sentiment analysis system that will automatically process and analyze news articles to gauge market sentiment and summarize the news at a weekly level to enhance accuracy of theor stock price predictions and optimized investment strategies.
+* Tech Stack: [Python,TensorFlow, Keras, Scikit-learn, Matplotlib, Numpy, Pandas]
+* Key Features: [EDA, Data Visualization, Univariate and Bivariate Analysis, Data Normalization, Model Building using Activation function and Optimizers, Word2Vec, GloVe, Sentence TransformerModel , selection & testing of the model, Opensource HuggingFace LLM models ]
 
 ---
 
@@ -91,7 +91,7 @@ A Senior Product Engineering Lead & Architect with extensive experience in leadi
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
 
-
+---
 
 ### GitHub Stats
 
