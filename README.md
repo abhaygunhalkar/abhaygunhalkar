@@ -11,7 +11,7 @@ A Senior Product Engineering Lead & Architect with extensive experience in leadi
   *  Post Graduate Program in Artificial Intelligence & Machine Learning: Business Applications,  from The University of Austin, McCombs School of Business, Texas.
   *  Bachelor of Engineering, B.I.E.T, Davangere, India.
 - 🌍 **Location:** Austin, Texas
-- 💬 **Ask me about:** Product Engineering & Management, Technology Delivery, Project Managment, Systems Integration, Web Development,Java Enterprise, API, REST, Microservices, Python, Agile, Machine Learning, Artificial Intelligence, Neural Network
+- 💬 **Ask me about:** Agentic AI, MCP, A2A, Product Engineering & Management, Technology Delivery, Project Managment, Systems Integration, Web Development,Java Enterprise, API, REST, Microservices, Python, Agile, Machine Learning, Artificial Intelligence, Neural Network
 - 📫 **How to reach me:** Email:reachabhayg@gmail.com or LinkedIn
 <!-- - ⚡ **Fun fact:** [......."] -->
 ---
